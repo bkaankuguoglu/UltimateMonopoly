@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="false" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="card.ConsultancyFee" project="PhaseI" file="/PhaseI/src/card/ConsultancyFee.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4518" y="566"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="card.ReverseRent" project="PhaseI" file="/PhaseI/src/card/ReverseRent.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4760" y="557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="card.DoctorsFee" project="PhaseI" file="/PhaseI/src/card/DoctorsFee.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4990" y="557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="card.Deck" project="PhaseI" file="/PhaseI/src/card/Deck.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="291" x="5406" y="-610"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="card.Chairperson" project="PhaseI" file="/PhaseI/src/card/Chairperson.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5219" y="557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="card.AssetsSeized" project="PhaseI" file="/PhaseI/src/card/AssetsSeized.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5453" y="557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="card.ChangingLanes2" project="PhaseI" file="/PhaseI/src/card/ChangingLanes2.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5699" y="575"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="card.Inherit" project="PhaseI" file="/PhaseI/src/card/Inherit.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5928" y="557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="card.ChangingLanes1" project="PhaseI" file="/PhaseI/src/card/ChangingLanes1.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6157" y="575"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="card.GoToJail" project="PhaseI" file="/PhaseI/src/card/GoToJail.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6388" y="557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="card.GoBackSpace" project="PhaseI" file="/PhaseI/src/card/GoBackSpace.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6614" y="557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="card.SpecialOnlinePricing" project="PhaseI" 
+    file="/PhaseI/src/card/SpecialOnlinePricing.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4615" y="1068"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="card.HouseCondemned" project="PhaseI" file="/PhaseI/src/card/HouseCondemned.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4878" y="1077"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="card.WinTheMarathon" project="PhaseI" file="/PhaseI/src/card/WinTheMarathon.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5134" y="1077"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="card.Card" project="PhaseI" file="/PhaseI/src/card/Card.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="477" width="247" x="5406" y="-309"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="card.MardiGras" project="PhaseI" file="/PhaseI/src/card/MardiGras.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5370" y="1077"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="card.LoanMature" project="PhaseI" file="/PhaseI/src/card/LoanMature.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5595" y="1077"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="card.Advance2NearestRailroad" project="PhaseI" 
+    file="/PhaseI/src/card/Advance2NearestRailroad.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5858" y="1077"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="card.MovingExperience" project="PhaseI" 
+    file="/PhaseI/src/card/MovingExperience.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6136" y="1077"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="card.Advance2StockExchange" project="PhaseI" 
+    file="/PhaseI/src/card/Advance2StockExchange.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6414" y="1077"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="card.BargainBusiness" project="PhaseI" 
+    file="/PhaseI/src/card/BargainBusiness.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6688" y="1086"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="card.RollOne" project="PhaseI" file="/PhaseI/src/card/RollOne.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6919" y="1077"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="card.Advance2StCharlesPlace" project="PhaseI" 
+    file="/PhaseI/src/card/Advance2StCharlesPlace.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4605" y="-197"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="card.TaxiWars" project="PhaseI" file="/PhaseI/src/card/TaxiWars.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4860" y="-188"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="card.AssessedStreetRepairs" project="PhaseI" 
+    file="/PhaseI/src/card/AssessedStreetRepairs.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5111" y="-188"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="card.ExcellentAccounting" project="PhaseI" 
+    file="/PhaseI/src/card/ExcellentAccounting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4534" y="311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="card.GetRolling" project="PhaseI" file="/PhaseI/src/card/GetRolling.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4778" y="311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="card.CompedRoom" project="PhaseI" file="/PhaseI/src/card/CompedRoom.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5006" y="311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="card.GeneralRepairs" project="PhaseI" file="/PhaseI/src/card/GeneralRepairs.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5248" y="311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="card.ForeClosedPropertySale" project="PhaseI" 
+    file="/PhaseI/src/card/ForeClosedPropertySale.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5515" y="311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="card.HeyTaxi" project="PhaseI" file="/PhaseI/src/card/HeyTaxi.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5763" y="311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="card.Tornado" project="PhaseI" file="/PhaseI/src/card/Tornado.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5973" y="311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="card.April15TaxesDue" project="PhaseI" 
+    file="/PhaseI/src/card/April15TaxesDue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6204" y="311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="card.SchoolFees" project="PhaseI" file="/PhaseI/src/card/SchoolFees.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6445" y="311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="card.ZeroDollarsDown" project="PhaseI" 
+    file="/PhaseI/src/card/ZeroDollarsDown.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4434" y="831"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="card.Advance2NearestUtility" project="PhaseI" 
+    file="/PhaseI/src/card/Advance2NearestUtility.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4704" y="831"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="card.RenovationSuccess" project="PhaseI" 
+    file="/PhaseI/src/card/RenovationSuccess.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4980" y="840"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="card.Hurricane" project="PhaseI" file="/PhaseI/src/card/Hurricane.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5223" y="831"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="card.SocialMediaFail" project="PhaseI" 
+    file="/PhaseI/src/card/SocialMediaFail.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5454" y="831"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="card.GetOutOfJail" project="PhaseI" file="/PhaseI/src/card/GetOutOfJail.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5692" y="831"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="card.Occupy" project="PhaseI" file="/PhaseI/src/card/Occupy.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5912" y="831"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="card.RollTheDice" project="PhaseI" file="/PhaseI/src/card/RollTheDice.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6130" y="831"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="card.Advance2SqueezePlay" project="PhaseI" 
+    file="/PhaseI/src/card/Advance2SqueezePlay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6386" y="831"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="card.PropertyTax" project="PhaseI" file="/PhaseI/src/card/PropertyTax.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6642" y="831"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="card.HappyBirthday" project="PhaseI" file="/PhaseI/src/card/HappyBirthday.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6878" y="831"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="48">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="49">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="51">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="52">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="56">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="57">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="58">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="63">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="64">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="65">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="66">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="67">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="68">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="69">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="70">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="71">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="72">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="73" name="cardMap"/>      
+      <multiplicity id="74" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="75">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="76">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="77">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="78">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="79">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="80">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="81" name="communityChestCardList"/>      
+      <multiplicity id="82" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="83">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="84">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="85">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="86" name="chanceCardList"/>      
+      <multiplicity id="87" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="88">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="89">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="90">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="91">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="92">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="93">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="95">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="96">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="97">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

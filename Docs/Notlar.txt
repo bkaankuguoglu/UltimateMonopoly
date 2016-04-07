@@ -1,0 +1,101 @@
+Nearest utility? 8kart 
+
+Page 1
+Advance to the Nearest Utility - 
+Go To Jail!-
+Make General Repairs to all your properties.
+Advance to the Nearest Railroad
+Get Out of Jail Free! - KEEP
+Go Back Three (3) Spaces-
+School Fees- 
+
+Page 2
+Advance to the Stock Exchange 
+
+
+Page 3
+Loan Matures!
+You are elected as the Chairperson
+Occupy
+
+Page 4
+Excellent Accounting
+Get Rollin’
+Hurricane makes landfall!
+Property Taxes
+HEY! TAXI!!! *whistle*
+Social Media Fail!
+
+Page 5
+Assets Seized!
+Win the Marathon!
+MARDI GRAS!
+Taxi Wars are not Fare!
+Zero Dollars Down!
+
+Page 6:
+Comped Room (Next time don’t pay rent)
+Changing Lanes (move to the track below)
+Changing Lanes (move to the track above)
+
+Page 7:
+You Inherit 100 (get Money from bank)
+Happy Birthday (get Money from each player and move to birthday gift space)
+Doctor’s Fee (pay Money to pool)
+April 15, Taxes Due (move to income tax, pay the fine or go to jail)
+A Moving Experience (Move to any transportation property)
+
+Page 8:
+Changing Lanes (move to the track below)
+Changing Lanes (move to the track above)
+House condemned (sell one house to bank)
+Special Online Pricing (next time pay half rent)
+
+Page 9:
+Reverse Rent
+
+Page 10:
+Assessed for Street Repairs (pay some Money for house, cab com, hotel, skyscraper)
+Get Out of Jail Free!
+Go to Jail!
+
+Page 11:
+Advance to the Stock Exchange (if you pass pay day, collect Money)
+
+Page 12:
+Tornado Hits! (remove house)
+
+Page 13:
+Roll1 (For every possibility)
+
+
+
+
+
+
+
+
+Card Groups
+Occupy-Buy-Foreclose Sth. Choosing neeeded!!!
+Pay/Collect Money
+Move somewhere
+GoJail-GetOutFromJail
+Foreclosed Property Sale!
+Remove houses-hotels-skyscapers.
+
+
+?? Get Out of Jail Free!--This card may be traded or sold? What does it mean? I think no trade, but how to sell????
+?? Jail aciklamasi-Jail'den cikis?Jail Bail charges?
+
+
+++BetterAbstraction
+++Need to implement Pool. Nice!! Look for document.
+++GoToJail function used by everyone, cards...???
+++Go directly or move
+++Choosing propery vs... needed!!
+++How to implement tracks!! 
+++Square Implementation and 
+++Tren Gari satmak
+++PassedProc to each square.
+++SavedState for Each Class for future debug. Ininiate the game from code not from txt.
+

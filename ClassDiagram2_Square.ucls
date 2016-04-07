@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="false" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="boardrelated.goSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/goSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="703" y="1209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="boardrelated.hollandTunnelSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/hollandTunnelSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="944" y="1209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="boardrelated.Stock" project="PhaseI" file="/PhaseI/src/boardrelated/Stock.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="195" x="2121" y="433"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="boardrelated.cabSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/cabSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="300" y="610"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="boardrelated.rollOneSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/rollOneSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1187" y="1209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="boardrelated.taxRefundSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/taxRefundSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="203" x="889" y="1672"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="boardrelated.paydaySquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/paydaySquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="189" x="1132" y="1672"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="boardrelated.RailroadTrackSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/RailroadTrackSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="645" y="125"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="boardrelated.utilitySquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/utilitySquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="313" y="845"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="boardrelated.go2jailSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/go2jailSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="183" x="1361" y="1672"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="boardrelated.Square" project="PhaseI" file="/PhaseI/src/boardrelated/Square.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1179" width="243" x="1361" y="433"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="boardrelated.drawCardSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/drawCardSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1916" y="1463"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="boardrelated.birthdayGiftSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/birthdayGiftSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2177" y="1445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="boardrelated.bonusSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/bonusSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1913" y="782"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="boardrelated.incomeTaxSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/incomeTaxSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2147" y="773"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="boardrelated.squezzePlaySquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/squezzePlaySquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2396" y="773"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="boardrelated.buyableSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/buyableSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="634" y="606"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="boardrelated.StockMarket" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/StockMarket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="177" x="2121" y="-66"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="boardrelated.reverseDirectionSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/reverseDirectionSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2117" y="633"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="boardrelated.deedSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/deedSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="445" y="1470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="boardrelated.luxuryTaxSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/luxuryTaxSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2374" y="633"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="boardrelated.Board" project="PhaseI" file="/PhaseI/src/boardrelated/Board.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="341" x="1361" y="-66"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="23" language="java" name="boardrelated.Auctionable" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/Auctionable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1952" y="176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="24" language="java" name="boardrelated.StockExchangeSquare" project="PhaseI" 
+    file="/PhaseI/src/boardrelated/StockExchangeSquare.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="228" x="966" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="26">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="27" name="squares">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="28" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="29">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="30" name="squareArrayList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="31" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="32">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="33" name="prSq">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="34" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="42">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="43" name="nxSq">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="44" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="47">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="48" name="nxSq2">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="49" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <generalization id="51">    
+    <bendpoint x="411" y="433"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <generalization id="52">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="54">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="55" name="a">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="56" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="58" name="colorGroup">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="59" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="61" name="stock1"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="63">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="64">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <generalization id="65">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="66">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="67">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="68">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="69" name="prSq2">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="70" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

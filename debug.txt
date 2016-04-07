@@ -1,0 +1,20 @@
+2
+Chance 2
+1000
+1
+Nicollet Avenue
+1
+Lake Street
+0
+1
+Get Out Of Jail
+0
+Chance 3
+1
+0
+1
+Get Out Of Jail
+0
+1
+3
+4

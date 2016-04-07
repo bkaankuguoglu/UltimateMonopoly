@@ -1,0 +1,33 @@
+2
+0
+0,0,0,0,false,false,false,false
+1000
+Chance 2
+0
+1
+false
+true
+false
+false
+false
+2,Nicollet Avenue,false,false,false,0,Lake Street,false,false,false,0
+0
+0
+0
+0
+1,Get Out Of Jail
+1
+Chance 3
+0
+2
+false
+false
+false
+false
+false
+0
+0
+0
+0
+0
+1,Get Out Of Jail
